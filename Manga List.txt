@@ -1,0 +1,3 @@
+Manga ID___Manga Name___Language___Genre___Chapter-Total Image(_Chapter-Total Image_Chapter-Total Image)
+1___The Eminence in Shadow___English___0___1-35
+2___The Eminence in Shadow___Myanmar___0___1-1
